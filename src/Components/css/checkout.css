@@ -1,0 +1,25 @@
+.checkout{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+}
+.btn{
+    border:.5px solid rgb(13,110,253);
+    border-radius: 5rem;
+}
+.card{
+    box-shadow: 5px 5px 10px rgb(221, 218, 218);
+    border-radius: 20px;
+}
+.subtotal{
+    display:table-column;
+    align-items: center;
+    justify-content: space-evenly;
+    position:fixed;
+    right:100px;
+    box-shadow: 5px 5px 10px rgb(221, 218, 218);
+    border-radius: 20px;
+    padding: 20px;
+
+}
